@@ -1,1 +1,2 @@
 # Site-construido-com-imers-o-Alura-html-css-javascript
+"Este projeto, desenvolvido durante a imersão Alura e Gemini, é um buscador especializado em artigos sobre a Fé Reformada e seus principais representantes. Além disso, o site oferece recursos para aprofundar o estudo da arqueologia bíblica e da Teoria do Design Inteligente (TDI). A plataforma visa auxiliar pesquisas, estudantes e leitores em geral a encontrar informações relevantes e confiáveis sobre esses temas"
